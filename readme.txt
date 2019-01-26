@@ -9,3 +9,5 @@ Git is a fe software.
 haha
 sadfddddddd--------------
 sadf
+
+Git has a mutable index called stage
