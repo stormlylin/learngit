@@ -1,6 +1,6 @@
 Git is a version control system.
 asdfasdfsadf
-Git is free software.
+Git is a free software.
 asdfasdf
 
 Git is a distributed  control system.
